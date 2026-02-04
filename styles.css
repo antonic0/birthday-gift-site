@@ -56,23 +56,23 @@ body {
 }
 
 #gift-img-happy:hover {
-	background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlsZTR6ZWUwOHcyc2doZHVhMXVmOXFlMGZ6dGo3MjY3Mmd4ejFuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qXFNgN3dRZttllaT3M/giphy.gif");
+	background-image: url("images/happy.gif");
 }
 
 #gift-img-muah:hover {
-	background-image: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2MzMzhlbXNlaTEwODRvdGRia2Rucjk4d2c3ZWJjMDFqaXpzM253cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytu2GUYbvhz7zShGwS/giphy.gif");
+	background-image: url("images/muah.gif");
 }
 
 #gift-img-bff:hover {
-	background-image: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRheWRod3huYmtjajd4azFzcG5xcGYxODBnYWRsdzB0ODU0ZXp2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/STeW0ToKRNUNcjs6le/giphy.gif");
+	background-image: url("images/bff.gif");
 }
 
 #gift-img-badass:hover {
-	background-image: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjN6emRldmFrY3YxbmM5OHJjdzQ2aHg2OThxYnp6d2treW5rZjJrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VAL9KWeblewurK75Ct/giphy.gif");
+	background-image: url("images/lee.gif");
 }
 
 #gift-img-cheers:hover {
-	background-image: url("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVmdzJoeXlmbGV6YnB2cHJ2ZHBxbmg0bjd2ZngycmwwcWdudXdnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bIEzoZX0qJaG6s6frc/giphy.gif");
+	background-image: url("images/cheers.gif");
 }
 
 #gift-img-cheers {
