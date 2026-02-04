@@ -1,0 +1,94 @@
+body {
+	text-align: center;
+	font-family: cursive;
+	background: linear-gradient(#0073e6, #E1D9D1);
+	color: white;
+}
+
+#bff-img {
+	width: 150px;
+	border: 4px solid white;
+	border-radius: 50%;
+}
+
+.gift-img {
+	border: 6px solid white;
+	width: 400px;
+	height: 400px;
+	margin: 20px auto 40px;
+	background-image: url("images/wrap-gift.jpg");
+	background-size: cover;
+	border-radius: 4px;
+	box-shadow: 0px 0px 2px black;
+}
+
+#bday-age {
+	background: white;
+	color: #0073e6;
+	padding: 5px 10px;
+	border-radius: 4px;
+	margin: 20px 0 10px;
+	text-shadow: 0px 0px 0px;
+}
+
+#bday-date {
+	background: white;
+	color: #0073e6;
+	padding: 5px 10px;
+	border-radius: 4px;
+	margin: 0 0 40px;
+	text-shadow: 0px 0px 0px;
+}
+
+.header {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.gift-hint {
+	margin-top: 0;
+	margin-bottom: 35px;
+}
+
+.gift-title {
+	margin-bottom: 7px;
+}
+
+#gift-img-happy:hover {
+	background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlsZTR6ZWUwOHcyc2doZHVhMXVmOXFlMGZ6dGo3MjY3Mmd4ejFuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qXFNgN3dRZttllaT3M/giphy.gif");
+}
+
+#gift-img-muah:hover {
+	background-image: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2MzMzhlbXNlaTEwODRvdGRia2Rucjk4d2c3ZWJjMDFqaXpzM253cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytu2GUYbvhz7zShGwS/giphy.gif");
+}
+
+#gift-img-bff:hover {
+	background-image: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRheWRod3huYmtjajd4azFzcG5xcGYxODBnYWRsdzB0ODU0ZXp2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/STeW0ToKRNUNcjs6le/giphy.gif");
+}
+
+#gift-img-badass:hover {
+	background-image: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjN6emRldmFrY3YxbmM5OHJjdzQ2aHg2OThxYnp6d2treW5rZjJrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VAL9KWeblewurK75Ct/giphy.gif");
+}
+
+#gift-img-cheers:hover {
+	background-image: url("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVmdzJoeXlmbGV6YnB2cHJ2ZHBxbmg0bjd2ZngycmwwcWdudXdnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bIEzoZX0qJaG6s6frc/giphy.gif");
+}
+
+#gift-img-cheers {
+	height: 200px;
+}
+
+h1, h2, h3, h4, p {
+	text-shadow: 0px 0px 2px black;
+}
+
+a {
+	color: white;
+}
+
+#footer {
+	width: 400px;
+	margin: 40px auto 20px;
+	font-style: italic;
+}
